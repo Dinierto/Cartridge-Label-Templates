@@ -3,7 +3,7 @@ Photoshop templates for various videogame consoles
 
 All templates are a WIP!
 
-I've tried to add guides that make sense for the layouts of each respective type of label; magenta are edge guides, green are center guides.  If I missed anything, let me know.
+I've tried to add guides that make sense for the layouts of each respective type of label; magenta are edge and fold guides, green are center guides.  If I missed anything, let me know.
 
 Photoshop files should all be pre-sized, but for reference I've included an Excel sheet that lists the size information for each system.
 
