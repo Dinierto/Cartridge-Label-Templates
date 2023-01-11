@@ -1,7 +1,7 @@
 # Cartridge-Label-Templates
 Photoshop templates for various videogame consoles
 
-All templates are a WIP!
+Disclaimer: All templates are a WIP!  They may not be a perfect 1:1 recreation of whatever label design you're looking for.  Most of the time there is not a perfect consistency across consoles or publishers, so for the sake of my sanity I tried to create something that represents an average of the style differences, while still looking halfway decent.  That being said I've included several variations of different styles.  If something isn't lined up, I trust that anyone using Photoshop will be able to resize or move objects as needed.
 
 I've tried to add guides that make sense for the layouts of each respective type of label; magenta are edge and fold guides, green are center guides.  If I missed anything, let me know.
 
@@ -9,6 +9,6 @@ Photoshop files should all be pre-sized, but for reference I've included an Exce
 
 Whenever possible, these have been printed and tested to verify dimensions.
 
-If you'd like to request a template be made for a particular system cartridge, I will either need a sample cart to borrow, or clear photograph facing the label squarely, with precise measurements taken from a set of digital calipers.  I am for precision, so rulers or guessing won't work for these, sorry!
+If you'd like to request a template be made for a particular system cartridge, I will either need a sample cart to borrow, or clear photograph facing the label squarely, with precise measurements taken from a set of digital calipers.  I aim for precision, so rulers or guessing won't work for these, sorry!
 
 For comments or suggestions, you can find me on Reddit (u/Dinierto) or Discord (Dinierto#1741)
