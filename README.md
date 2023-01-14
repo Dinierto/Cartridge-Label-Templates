@@ -9,6 +9,13 @@ Photoshop files should all be pre-sized, but for reference I've included an Exce
 
 Whenever possible, these have been printed and tested to verify dimensions.
 
+If you don't have Photoshop, Paint.net and GIMP are both great alternatives although you may have issues editing things like text layers.  The PSD plugin for paint.net can be found here:  https://www.psdplugin.com/
+
 If you'd like to request a template be made for a particular system cartridge, I will either need a sample cart to borrow, or clear photograph facing the label squarely, with precise measurements taken from a set of digital calipers.  I aim for precision, so rulers or guessing won't work for these, sorry!
 
 For comments or suggestions, you can find me on Reddit (u/Dinierto) or Discord (Dinierto#1741)
+
+Special thanks:
+
+Cody Walther (Photos and measurements)
+ChaddyBones (Font help)
