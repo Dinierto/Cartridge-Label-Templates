@@ -5,6 +5,8 @@ Disclaimer: All templates are a WIP!  They may not be a perfect 1:1 recreation o
 
 I've tried to add guides that make sense for the layouts of each respective type of label; magenta are edge and fold guides, green are center guides.  If I missed anything, let me know.
 
+All imported logos and other assets are all vector and/or smart objects, so if you need to change something like the color or fill you can simply edit them in place.
+
 Photoshop files should all be pre-sized, but for reference I've included an Excel sheet that lists the size information for each system.
 
 Whenever possible, these have been printed and tested to verify dimensions.
