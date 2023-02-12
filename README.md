@@ -19,5 +19,9 @@ For comments or suggestions, you can find me on Reddit (u/Dinierto) or Discord (
 
 Special thanks:
 
-Cody Walther (Photos and measurements)
+BirdyBro (Japanese OCR)
 ChaddyBones (Font help)
+Chris Bomar (Vector art)
+Cody Walther (Photos and measurements)
+David Phillips (Japanese proofreading)
+Niklas Feichtinger (European proofreading)
