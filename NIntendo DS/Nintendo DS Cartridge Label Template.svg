@@ -1,3 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.6.3  -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:shaper="http://www.shapertools.com/namespaces/shaper" shaper:fusionaddin="version:1.6.3" width="2.7cm" height="2.85cm" version="1.1" x="0cm" y="0cm" viewBox="0 0 2.7 2.85" enable-background="new 0 0 2.7 2.85" xml:space="preserve"><path d="M-1.0678594,1.3990051 L-1.0678594,-1.1095736 A0.1,0.1 180 0,1 -1.0385701,-1.1802842 L-0.8971488,-1.3217056 A0.1,0.1 225 0,1 -0.8264381,-1.3509949 L1.5321406,-1.3509949 A0.1,0.1 270 0,1 1.6321406,-1.2509949 L1.6321406,1.3990051 A0.1,0.1 0 0,1 1.5321406,1.4990051 L-0.9678594,1.4990051 A0.1,0.1 90 0,1 -1.0678594,1.3990051z" transform="matrix(1,0,0,-1,1.0678594,1.4990051)" fill="rgb(0,0,0)" shaper:cutDepth="0" stroke-linecap="round" stroke-linejoin="round" /></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Fusion 360, Shaper Origin Export Add-In, Version 1.7.0  -->
+
+<svg
+   shaper:fusionaddin="version:1.7.0"
+   width="2.65cm"
+   height="2.85cm"
+   version="1.1"
+   x="0cm"
+   y="0cm"
+   viewBox="0 0 2.65 2.85"
+   enable-background="new 0 0 2.65 2.85"
+   xml:space="preserve"
+   id="svg4"
+   sodipodi:docname="Nintendo DS Cartridge Label Template.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:shaper="http://www.shapertools.com/namespaces/shaper"><defs
+     id="defs8" /><sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="7.2597956"
+     inkscape:cx="97.454535"
+     inkscape:cy="75.897454"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" /><path
+     d="M-1.1026632,-1.210514 A0.1,0.1 270 0,0 -1.1733739,-1.1812247 L-1.3147952,-1.0398033 A0.1,0.1 225 0,0 -1.3440845,-0.9690926 L-1.3440845,1.539486 A0.1,0.1 180 0,0 -1.2440845,1.639486 L1.2059155,1.639486 A0.1,0.1 90 0,0 1.3059155,1.539486 L1.3059155,-1.110514 A0.1,0.1 0 0,0 1.2059155,-1.210514 L-1.1026632,-1.210514z"
+     transform="matrix(1,0,0,-1,1.3440845,1.639486)"
+     stroke="rgb(100,100,100)"
+     stroke-width="0.0010cm"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     fill="none"
+     id="path2"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" /></svg>
